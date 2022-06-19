@@ -10,13 +10,6 @@ My name is **Wesley Alves**, I'm mainly a Java Developer and currently a undergr
 🎯 My main goal in life is to work on some project of great social impact that can benefit all humanity.\
 ⚡ Fun fact: **I'm Batman! 🦇**
 
-## 🤖 Here are some cool stats about me:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wyalves&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=issues,prs)
-
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wyalves&theme=radical&hide_border=true)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyalves&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
-
 ## 📫 How to reach me:
   - **Twitter:** [@wyalvess](https://twitter.com/wyalvess)
   - **Discord:** wyalves#6109
@@ -54,3 +47,10 @@ My name is **Wesley Alves**, I'm mainly a Java Developer and currently a undergr
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+## 🤖 Here are some cool stats about me:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wyalves&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=issues,prs)
+
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wyalves&theme=radical&hide_border=true)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyalves&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
