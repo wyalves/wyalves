@@ -16,7 +16,14 @@ My name is **Wesley Alves**, I'm mainly a Java Developer and currently a undergr
   - **Linkedin:** [Wesley Alves](https://www.linkedin.com/in/wyalves/)
   - **Email:** wesley0775@gmail.com
 
-## 💻Tech Stack:
+## 🤖 Here are some cool stats about me:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wyalves&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=issues,prs)
+
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wyalves&theme=radical&hide_border=true)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyalves&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+
+## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)\
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,10 +54,3 @@ My name is **Wesley Alves**, I'm mainly a Java Developer and currently a undergr
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-## 🤖 Here are some cool stats about me:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wyalves&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=issues,prs)
-
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wyalves&theme=radical&hide_border=true)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyalves&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
