@@ -1,6 +1,6 @@
-# 👋 Hi there!
+# 👋 Hi there! My name is Wesley Alves!
 
-My name is **Wesley Alves**, I'm mainly a Java Developer and currently a undergraduate in Computer Engineering at [UFS](https://www.ufs.br/). ![Visit count](https://visitcount.itsvg.in/api?id=wyalves&icon=0&color=10)
+I'm mainly a Java Developer and currently a undergraduate in Computer Engineering at [UFS](https://www.ufs.br/). ![Visit count](https://visitcount.itsvg.in/api?id=wyalves&icon=0&color=10)
 
 🔭 I’m currently working as a Java backend developer at the [Banese](https://www.banese.com.br/) bank.\
 🎓 I’m also working on building a reliable facial recognition solution for low-cost embedded systems, for my bachelor's thesis.\
