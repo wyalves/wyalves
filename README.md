@@ -1,7 +1,6 @@
 # 👋 Hi there!
 
 My name is **Wesley Alves**, and I'm a software engineer primarily working with Java in banking applications.
-![Visit count](https://visitcount.itsvg.in/api?id=wyalves&icon=0&color=10)
 
 🎓 I hold a degree in Computer Engineering from [UFS](https://www.ufs.br/).\
 🔭 I have more than 5 years of experience in software engineering in the banking sector.\
